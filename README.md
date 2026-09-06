@@ -1,106 +1,71 @@
-# S&P 500 Financial Analysis
+# S&P 500 Corporate Financial Analysis
 
-A financial analysis project using **Google Sheets** to analyze financial performance of S&P 500 companies, with a focus on revenue, profitability, operating performance, and year-over-year growth.
+A financial analysis project using **Google Sheets** to analyze the financial performance of S&P 500 companies, focusing on revenue, profitability, operating performance, and year-over-year growth.
 
 ## 📊 Project Overview
 
-This project analyzes financial data from S&P 500 companies for 2020 and 2021. The analysis includes data auditing, financial performance calculations, company-level comparisons, pivot tables, and an interactive dashboard.
+This project analyzes financial data of S&P 500 companies for 2020 and 2021. The analysis includes data auditing, financial calculations, company-level comparisons, pivot tables, and a KPI dashboard.
 
-The goal is to demonstrate practical **financial data analysis and spreadsheet skills** relevant to data analyst and financial analyst roles.
+The objective was to transform financial data into meaningful business insights using spreadsheet-based analysis.
 
 ## 🛠️ Tools Used
 
 * Google Sheets
-* Excel
 * Pivot Tables
-* Spreadsheet formulas
-* Data cleaning and validation
-* Financial analysis
-* Data visualization
-
-## 📁 Project Structure
-
-* `financial_analysis_sp500.xlsx` — Complete analysis workbook
-
-  * Raw Data
-  * Data Audit
-  * Cleaned Data
-  * Financial Analysis
-  * Pivot Tables
-  * Dashboard
+* Spreadsheet Formulas
+* Data Cleaning
+* Data Visualization
 
 ## 🔍 Analysis Performed
 
-### Data Cleaning & Auditing
-
-* Checked missing values
-* Checked duplicate records
-* Validated date fields
-* Identified unusual financial values
-* Created data-quality flags
-
-### Financial Analysis
-
-* Total Revenue
-* Gross Profit
-* Operating Income
-* Net Income
-* Gross Profit Margin
-* Operating Margin
-* Net Profit Margin
-* Year-over-Year Growth
+* Data cleaning and quality auditing
+* Missing-value and duplicate checks
+* Revenue and profitability analysis
+* Gross profit, operating income, and net income analysis
+* Year-over-year growth analysis
+* Profitability margin analysis
 * Cost structure analysis
 * Company-level financial comparisons
-
-### Company Analysis
-
-Identified top companies based on:
-
-* Revenue
-* Operating Income
-* Net Income
-* Operating Margin
-
-### Dashboard
-
-The dashboard presents key financial KPIs and visualizations, including:
-
-* Total Revenue
-* Total Gross Profit
-* Total Operating Income
-* Total Net Income
-* Revenue Growth
-* Revenue comparison between 2020 and 2021
-* Profitability margin comparison
-* Top 10 companies by revenue
+* Top 10 companies by revenue, operating income, and net income
+* Pivot table analysis
+* KPI dashboard development
 
 ## 📈 Key Insights
 
 * Revenue increased by **35.11%** from 2020 to 2021.
-* Operating income increased by **62.07%**.
-* Net income increased by **102.63%**.
+* Operating income grew by **62.07%**, showing improved operating profitability.
+* Net income increased by **102.63%**, indicating a significant improvement in overall profitability.
 * Gross profit margin improved from **38.12% to 40.02%**.
-* Operating margin improved from **13.95% to 16.74%**.
+* Operating margin increased from **13.95% to 16.74%**.
 * Net profit margin improved from **8.50% to 12.75%**.
+
+## 📊 Dashboard
+
+### Dashboard Overview
+
+![Dashboard Overview](dashboard_overview.png)
+
+### Top 10 Companies by Revenue
+
+![Top 10 Companies by Revenue](top_10_companies_revenue.png)
+
+## 📁 Project Files
+
+* `S&P_500_Financial_Analysis.xlsx` — Complete analysis workbook created in Google Sheets and exported as an Excel file
+* `dashboard_overview.png` — Dashboard overview
+* `top_10_companies_revenue.png` — Top 10 companies by revenue visualization
 
 ## 🎯 Skills Demonstrated
 
-This project demonstrates practical experience with:
+* Financial Data Analysis
+* Data Cleaning
+* Spreadsheet Analysis
+* Financial Metrics & Ratios
+* Pivot Tables
+* Data Visualization
+* Dashboard Development
+* Business Insights
 
-* Financial data analysis
-* Spreadsheet-based data cleaning
-* Excel/Google Sheets formulas
-* Pivot tables
-* KPI development
-* Financial ratios and margins
-* Year-over-year analysis
-* Data visualization
-* Business insights
+## 📌 Dataset
 
-## 📌 Note
-
-The dataset used for this project was obtained from Kaggle. The workbook contains the analysis and dashboard developed as part of this project.
-
-## 👩‍💻 Author
-
-**Priyanka**
+The financial dataset used for this project was obtained from Kaggle. The analysis and dashboard were developed using Google Sheets.
