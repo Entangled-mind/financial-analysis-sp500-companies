@@ -1,4 +1,4 @@
-# S&P 500 Corporate Financial Analysis
+# S&P 500 Financial Analysis
 
 A financial analysis project using **Google Sheets** to analyze the financial performance of S&P 500 companies, focusing on revenue, profitability, operating performance, and year-over-year growth.
 
